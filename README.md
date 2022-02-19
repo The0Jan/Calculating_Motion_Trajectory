@@ -6,11 +6,11 @@ Calculate trajectory of motion on interval [0, 20] for following initial conditi
 (a) x1(0)=10 x2(0)=9;\
 (b) x1(0)=0 x2(0)=7;\
 (c) x1(0)=7 x2(0)=0;\
-(d) x1(0)=0.001 x2(0)=0.001.\
+(d) x1(0)=0.001 x2(0)=0.001.
 
 
-Methods implemented and compared to solving this problem:\
-1.Runge-Kutta of the fourth order (RK4) with a constant step;\
-2.Multistep predictor-corrector Adams fourth order with a constant step;\
-3.Rungego-Kutty fourth order (RK4) with a variable step;\
+Methods implemented and compared to solving this problem:
+1. Runge-Kutta of the fourth order (RK4) with a constant step;
+2. Multistep predictor-corrector Adams fourth order with a constant step;
+3. Rungego-Kutty fourth order (RK4) with a variable step;
 
